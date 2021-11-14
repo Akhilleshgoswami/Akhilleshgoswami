@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about  Blockchain,Reac or any tech-related stuff.
 - 📫 How to reach me: *## [Linkedin @Akhilesh](https://www.linkedin.com/in/akhilesh-goswami/)*
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: i never go on stackoverflow.
+- ⚡ Fun fact: i never went stackoverflow.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Akhilleshgoswami&&show_icons=true&title_color=ffffff&icon_color=affc41&text_color=daf7dc&bg_color=22223b">
