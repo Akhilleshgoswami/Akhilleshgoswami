@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fmD-SKmD2ACQ6IXq7_Jra85ZIKh7GqFO/view](https://drive.google.com/file/d/1fmD-SKmD2ACQ6IXq7_Jra85ZIKh7GqFO/view)
 
-- ⚡ Fun fact **I never visit on stack overflow .**
+- ⚡ Fun fact **I never visit to stack overflow .**
 
 
 
