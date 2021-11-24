@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React,Node,Blockchain ,DSA,web Development.**
 
-- 📫 How to reach me **agiri5375@gmail.com**
+- 📫 How to reach [@linkdin](https://www.linkedin.com/in/akhilesh-goswami/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fmD-SKmD2ACQ6IXq7_Jra85ZIKh7GqFO/view](https://drive.google.com/file/d/1fmD-SKmD2ACQ6IXq7_Jra85ZIKh7GqFO/view)
 
