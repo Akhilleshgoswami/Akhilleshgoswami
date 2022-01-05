@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Crypto](https://github.com/CruizeFinance/watch_dog)
 
-- 🌱 I’m currently learning **Blockchai Development ,MERN Development .**
+- 🌱 I’m currently learning **Blockchain Development ,MERN Development .**
 
 - 👯 I’m looking to collaborate on [Crypto State .](https://github.com/Akhilleshgoswami/Hackcbs_Nullpointer)
 
