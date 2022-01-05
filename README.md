@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilleshgoswami&label=Profile%20views&color=0e75b6&style=flat" alt="akhilleshgoswami" /> </p>
 
-- 🔭 I’m currently working on [Cruize Finance.](https://github.com/CruizeFinance/watch_dog)
+- 🔭 I’m currently working on [Crypto](https://github.com/CruizeFinance/watch_dog)
 
 - 🌱 I’m currently learning **Blockchai Development ,MERN Development .**
 
