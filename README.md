@@ -17,7 +17,7 @@
 
 - 📫 How to reach [@linkdin](https://www.linkedin.com/in/akhilesh-goswami/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BLxtd7dzZth7Q92v2SzftPa1GTM0YqIb/view?usp=sharing](https://drive.google.com/file/d/1fmD-SKmD2ACQ6IXq7_Jra85ZIKh7GqFO/view)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1BLxtd7dzZth7Q92v2SzftPa1GTM0YqIb/view?usp=share_link)
 
 - ⚡ Fun fact **I never visit to stack overflow .**
 
